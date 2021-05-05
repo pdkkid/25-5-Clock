@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import { RecoilRoot } from 'recoil';
 import { createGlobalStyle } from 'styled-components';
 import { App } from './components/App';
-import registerServiceWorker from './registerServiceWorker';
 
 const GlobalStyle = createGlobalStyle`
   body {
@@ -22,4 +21,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-registerServiceWorker();
