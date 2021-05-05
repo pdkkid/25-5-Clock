@@ -13,9 +13,16 @@ export const App = (): JSX.Element => {
 };
 
 const AppContainer = styled.div`
+  display: flex;
+  flex-direction: column;
   color: #cfd7c7;
+  user-select: none;
 `;
 
 const Title = styled.a`
-  font-size: 4em;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 3.5em;
+  padding-top: 20px;
 `;

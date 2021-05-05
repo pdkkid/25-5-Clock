@@ -18,11 +18,12 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "typeRoots": [
-      "node_modules/@types"
+      "node_modules/@types",
+      "custom_typings/"
     ],
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx"
   },
-  "include": ["src"]
+  "include": ["src", "custom_typings"]
 }
