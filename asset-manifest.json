@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/25-5-Clock/static/js/main.390c7942.chunk.js",
-    "main.js.map": "/25-5-Clock/static/js/main.390c7942.chunk.js.map",
+    "main.js": "/25-5-Clock/static/js/main.099c9164.chunk.js",
+    "main.js.map": "/25-5-Clock/static/js/main.099c9164.chunk.js.map",
     "runtime-main.js": "/25-5-Clock/static/js/runtime-main.2bd018a5.js",
     "runtime-main.js.map": "/25-5-Clock/static/js/runtime-main.2bd018a5.js.map",
-    "static/js/2.13828c5d.chunk.js": "/25-5-Clock/static/js/2.13828c5d.chunk.js",
-    "static/js/2.13828c5d.chunk.js.map": "/25-5-Clock/static/js/2.13828c5d.chunk.js.map",
+    "static/js/2.275db5eb.chunk.js": "/25-5-Clock/static/js/2.275db5eb.chunk.js",
+    "static/js/2.275db5eb.chunk.js.map": "/25-5-Clock/static/js/2.275db5eb.chunk.js.map",
     "static/js/3.47d20d81.chunk.js": "/25-5-Clock/static/js/3.47d20d81.chunk.js",
     "static/js/3.47d20d81.chunk.js.map": "/25-5-Clock/static/js/3.47d20d81.chunk.js.map",
     "index.html": "/25-5-Clock/index.html",
-    "static/js/2.13828c5d.chunk.js.LICENSE.txt": "/25-5-Clock/static/js/2.13828c5d.chunk.js.LICENSE.txt",
+    "static/js/2.275db5eb.chunk.js.LICENSE.txt": "/25-5-Clock/static/js/2.275db5eb.chunk.js.LICENSE.txt",
     "static/js/3.47d20d81.chunk.js.LICENSE.txt": "/25-5-Clock/static/js/3.47d20d81.chunk.js.LICENSE.txt",
     "static/media/alarm.9c5eda12.mp3": "/25-5-Clock/static/media/alarm.9c5eda12.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.2bd018a5.js",
-    "static/js/2.13828c5d.chunk.js",
-    "static/js/main.390c7942.chunk.js"
+    "static/js/2.275db5eb.chunk.js",
+    "static/js/main.099c9164.chunk.js"
   ]
 }
