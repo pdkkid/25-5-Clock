@@ -5,7 +5,6 @@ import { ClockAtom, CounterAtom } from "../../atom";
 import { TimerType } from "./clock.types";
 import useSound from 'use-sound';
 import alarmSound from '../../sounds/alarm.mp3';
-import { start } from "node:repl";
 
 const LengthSelectionContainer = styled.div`
   display: flex;
@@ -123,6 +122,7 @@ const useTimer = (): TimerType => {
       }
       timer.current = setTimeout(() => setCounter(counter - 30), 1000);
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [clock.paused, counter, setCounter]);
 
   return {
